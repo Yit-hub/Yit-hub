@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yit-hub&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yit-hub&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
