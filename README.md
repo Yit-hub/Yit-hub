@@ -1,4 +1,5 @@
-# Hello World!
+<h1>Hello World! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYzYm5qdjdnbDJiNXRkeXI5ZmF5NWt0a25vOGNqOXZnZTFqMTN0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="world" width="40px" align="right" /> </h1>
+
 I'm Daniel or Yi, a student of a Higher Education in Web Applications Development
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpiazBhMjJ3Z2NuNWdyZDJxZTVua2RqdjM5Yzg0cmkzcXd0c2lhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="right" width="300px" alt="coding duck"/>
 
