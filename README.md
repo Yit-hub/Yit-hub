@@ -1,6 +1,6 @@
 <h1>Hello World! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo5eW0yem80NTFmZmV6dW00bzEyMGltdzh4Mzd4YmJ0Z3drNTdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DMUFPG2niG1TW/giphy.gif" alt="world" width="50px" /> </h1>
 
-I'm Daniel or Yi, a student of a Higher Education in Web Applications Development
+I'm Daniel or Yi, a student of Higher Education in Web Applications Development at <a href="https://www.google.com/maps/place/Centro+FP+Superior+de+la+C%C3%A1mara+de+Comercio+de+Sevilla+-+Nuevas+Profesiones/@37.3755078,-5.98069,16z/data=!3m1!4b1!4m6!3m5!1s0xd126e9dd1459faf:0x761ce991c1ee65cc!8m2!3d37.3755078!4d-5.98069!16s%2Fg%2F1thgcq93?hl=es&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D">Campus Cámara FP</a>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpiazBhMjJ3Z2NuNWdyZDJxZTVua2RqdjM5Yzg0cmkzcXd0c2lhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="right" width="300px" alt="coding duck"/>
 
 
