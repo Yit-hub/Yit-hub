@@ -7,7 +7,6 @@ I'm Daniel or Yi, a student of Higher Education in Web Applications Development 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yit-hub&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yit-hub)](https://git.io/streak-stats)
 
 <!--
 **Yit-hub/Yit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
