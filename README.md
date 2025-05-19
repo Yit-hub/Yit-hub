@@ -8,7 +8,6 @@ I'm Daniel or Yi, a student of Higher Education in Web Applications Development 
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpiazBhMjJ3Z2NuNWdyZDJxZTVua2RqdjM5Yzg0cmkzcXd0c2lhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" align="right" width="300px" alt="coding duck"/>
 
-<img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png" width=50px><p>Rosé Pine Enjoyer </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yit-hub&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
