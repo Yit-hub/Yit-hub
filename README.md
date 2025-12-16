@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/5cd0822e-9d43-43e3-89cb-9aaa5474c650)
 
-I'm Daniel or Yi, a 3rd year student of Software engineering at a href="https://www.yorksj.ac.uk/">York St John University</a>
+I'm Daniel or Yi, a 3rd year student of Software engineering at <a href="https://www.yorksj.ac.uk/">York St John University</a>
 
 
 <h1>Hello World! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo5eW0yem80NTFmZmV6dW00bzEyMGltdzh4Mzd4YmJ0Z3drNTdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DMUFPG2niG1TW/giphy.gif" alt="world" width="50px" /> </h1>
