@@ -22,38 +22,29 @@ and a Web developer.
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL"><br>
-        <sub><code>MySQL · PostgreSQL</code></sub>
-      </td>
-    </tr>
-    <tr>
       <td valign="top"><code>├─ ⚙ containers_ci_cd:</code><br><br>
         <img src="https://skillicons.dev/icons?i=kubernetes,docker,github,gitlab,bash" alt="Kubernetes, Docker, GitHub, GitLab, Bash"><br>
         <sub><code>Kubernetes · Docker · GitHub · GitLab · Bash</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,nextjs,typescript,angular" alt="Node.js, JavaScript, React, Next.js, TypeScript, Angular"><br>
-        <sub><code>Node.js · JavaScript · React · Next.js · TypeScript · Python · FastAPI</code></sub>
+      <td valign="top"><code>├─ ✦ Backend:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=java,php,nodejs," alt="Java, PHP, NodeJS"><br>
+        <sub><code>Java · PHP · NodeJS</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ✦ Frontend:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=angular,javascript,react,nextjs,typescript,html,css,tailwind,bootstrap" alt="Angular, JavaScript, React, Next.js, TypeScript"><br>
+        <sub><code>Angular · JavaScript · React · Next.js · TypeScript · HTML · CSS · Tailwind CSS · Bootstrap</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL"><br>
+        <sub><code>MySQL · PostgreSQL</code></sub>
       </td>
     </tr>
   </tbody>
 </table>
-
 </div>
-<!--
-**Yit-hub/Yit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
