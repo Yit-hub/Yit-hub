@@ -16,7 +16,6 @@ I fully enjoy working across the stack, crafting intuitive user interfaces to de
 - Interested in automation, containers and developer tooling
 
 # $cat Tech-Stack.txt
-<hr>
 <div align="center">
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
