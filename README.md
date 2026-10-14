@@ -38,8 +38,8 @@ I fully enjoy working across the stack, crafting intuitive user interfaces to de
     </tr>
     <tr>
       <td valign="top"><code>├─ ✦ Frontend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=angular,javascript,react,nextjs,typescript,html,css,tailwind,bootstrap" alt="Angular, JavaScript, React, Next.js, TypeScript"><br>
-        <sub><code>Angular · JavaScript · React · Next.js · TypeScript · HTML · CSS · Tailwind CSS · Bootstrap</code></sub>
+        <img src="https://skillicons.dev/icons?i=angular,javascript,react,typescript,html,css,tailwind,bootstrap" alt="Angular, JavaScript, React, TypeScript, HTML, CSS, TailwindCSS, Bootstrap"><br>
+        <sub><code>Angular · JavaScript · React · TypeScript · HTML · CSS · Tailwind CSS · Bootstrap</code></sub>
       </td>
     </tr>
     <tr>
