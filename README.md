@@ -13,6 +13,36 @@ and a Web developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yit-hub&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+<table border="1" cellpadding="14" bgcolor="#17171c">
+  <thead>
+    <tr>
+      <th colspan="2" align="left">YitHub Stack</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL"><br>
+        <sub><code>MySQL · PostgreSQL</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ⚙ containers_ci_cd:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=kubernetes,docker,github,gitlab,bash" alt="Kubernetes, Docker, GitHub, GitLab, Bash"><br>
+        <sub><code>Kubernetes · Docker · GitHub · GitLab · Bash</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,nextjs,typescript,angular" alt="Node.js, JavaScript, React, Next.js, TypeScript, Angular"><br>
+        <sub><code>Node.js · JavaScript · React · Next.js · TypeScript · Python · FastAPI</code></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 <!--
 **Yit-hub/Yit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
