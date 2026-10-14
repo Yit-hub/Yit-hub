@@ -22,8 +22,8 @@ and a Web developer.
     </tr>
     <tr>
       <td valign="top"><code>├─ ✦ Backend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,php,nodejs," alt="Java, PHP, NodeJS"><br>
-        <sub><code>Java · PHP · NodeJS</code></sub>
+        <img src="https://skillicons.dev/icons?i=java,php,nodejs,kotlin" alt="Java, PHP, NodeJS, Kotlin"><br>
+        <sub><code>Java · PHP · NodeJS · Kotlin</code></sub>
       </td>
     </tr>
     <tr>
