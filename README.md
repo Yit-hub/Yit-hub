@@ -31,7 +31,7 @@ I fully enjoy working across the stack, crafting intuitive user interfaces to de
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ Backend:</code><br><br>
+      <td valign="top"><code>├─ 모 Backend:</code><br><br>
         <img src="https://skillicons.dev/icons?i=java,php,nodejs,kotlin" alt="Java, PHP, NodeJS, Kotlin"><br>
         <sub><code>Java · PHP · NodeJS · Kotlin</code></sub>
       </td>
@@ -46,6 +46,12 @@ I fully enjoy working across the stack, crafting intuitive user interfaces to de
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL"><br>
         <sub><code>MySQL · PostgreSQL</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top"><code>├─ >_ Linux_ecosystems:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=arch,ubuntu,mint,nix" alt="ArchLinux, Ubuntu, Linux Mint, NixOS"><br>
+        <sub><code>Archlinux · Ubuntu · Linux Mint · NixOS</code></sub>
       </td>
     </tr>
   </tbody>
